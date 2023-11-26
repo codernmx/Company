@@ -23,9 +23,6 @@ export default {
                 {
                   img: require("@/assets/banner/3.jpg"),
                 },
-                {
-                  img: require("@/assets/banner/1.jpg"),
-                },
             ],
         };
     },
