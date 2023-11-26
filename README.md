@@ -1,19 +1,28 @@
+<!--
+ * @Date: 2023-11-24 22:59:48
+ * @LastEditTime: 2023-11-26 22:40:31
+-->
 
 
-## Project setup
+## 安装
 ```
 yarn
 ```
 
-### Compiles and hot-reloads for development
+### 启动
 ```
 yarn dev
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 注意版本
+
+node版本（14） 16  18 可能会有问题  自测
+v14.21.3
+
+npm 版本
+6.14.18
